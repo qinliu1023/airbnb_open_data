@@ -17,7 +17,7 @@ There are two zip files containing the data downloaded from Kaggle. And one note
 
 
 ## Results
-Summaries are provided at the end of each session.
+Summaries are provided at the end of each session. And here is also a relative [post](https://medium.com/@qinliu1023/things-you-should-know-about-runnin-airbnb-da41416e108c).
 
 
 ## Licensing, Authors, Acknowledgements
