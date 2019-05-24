@@ -17,7 +17,7 @@ There are two zip files containing the data downloaded from Kaggle. And one note
 
 
 ## Results
-Each session in the notebook has at least one summary cell.
+Summaries are provided at the end of each session.
 
 
 ## Licensing, Authors, Acknowledgements
